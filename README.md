@@ -10,6 +10,13 @@ Go ahead and download the certifications in this repository! You've earned it! W
 
 Data Analytics Bootcamp Link: https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
 
+
+## Certifications
+
+![Data Analytics Bootcamp Certification of Completion](<Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png>)
+
+![Verified Analytics Bootcamp Certification](<Verified%20Analytics%20Bootcamp%20Certification.png>)
+
 .
 
 .
